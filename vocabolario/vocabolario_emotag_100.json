@@ -1,0 +1,502 @@
+[
+  {
+    "dimensione": "appartenenza",
+    "valore_suggerito": "+",
+    "note": "bisogno di inclusione, sentirsi parte"
+  },
+  {
+    "dimensione": "autenticità",
+    "valore_suggerito": "=",
+    "note": "essere sé stessi, coerenza personale"
+  },
+  {
+    "dimensione": "condivisione",
+    "valore_suggerito": "+",
+    "note": "relazione, apertura, scambio"
+  },
+  {
+    "dimensione": "rabbia",
+    "valore_suggerito": "-",
+    "note": "reazione a ingiustizia o frustrazione"
+  },
+  {
+    "dimensione": "paura",
+    "valore_suggerito": "-",
+    "note": "insicurezza, minaccia percepita"
+  },
+  {
+    "dimensione": "coraggio",
+    "valore_suggerito": "+",
+    "note": "affrontare il rischio con determinazione"
+  },
+  {
+    "dimensione": "speranza",
+    "valore_suggerito": "+",
+    "note": "fiducia nel futuro, luce"
+  },
+  {
+    "dimensione": "dolore",
+    "valore_suggerito": "-",
+    "note": "perdita, ferita emotiva"
+  },
+  {
+    "dimensione": "rinascita",
+    "valore_suggerito": "+",
+    "note": "trasformazione dopo crisi"
+  },
+  {
+    "dimensione": "successo personale",
+    "valore_suggerito": "+",
+    "note": "realizzazione, crescita"
+  },
+  {
+    "dimensione": "visibilità",
+    "valore_suggerito": "+",
+    "note": "desiderio di essere visti e riconosciuti"
+  },
+  {
+    "dimensione": "approvazione",
+    "valore_suggerito": "+",
+    "note": "bisogno di conferma esterna"
+  },
+  {
+    "dimensione": "autostima",
+    "valore_suggerito": "+",
+    "note": "valore personale percepito"
+  },
+  {
+    "dimensione": "ansia sociale",
+    "valore_suggerito": "-",
+    "note": "paura del giudizio"
+  },
+  {
+    "dimensione": "controllo",
+    "valore_suggerito": "=",
+    "note": "bisogno di ordine, sicurezza"
+  },
+  {
+    "dimensione": "giustizia",
+    "valore_suggerito": "+",
+    "note": "equità, senso morale forte"
+  },
+  {
+    "dimensione": "vendetta",
+    "valore_suggerito": "-",
+    "note": "riscatto aggressivo"
+  },
+  {
+    "dimensione": "perdono",
+    "valore_suggerito": "+",
+    "note": "rilascio della rabbia"
+  },
+  {
+    "dimensione": "empatia",
+    "valore_suggerito": "+",
+    "note": "sentire l'altro profondamente"
+  },
+  {
+    "dimensione": "solitudine",
+    "valore_suggerito": "-",
+    "note": "assenza di connessione"
+  },
+  {
+    "dimensione": "complicità",
+    "valore_suggerito": "+",
+    "note": "alleanza affettiva"
+  },
+  {
+    "dimensione": "attrazione",
+    "valore_suggerito": "+",
+    "note": "desiderio, sensualità"
+  },
+  {
+    "dimensione": "amore",
+    "valore_suggerito": "+",
+    "note": "unione profonda"
+  },
+  {
+    "dimensione": "nostalgia",
+    "valore_suggerito": "=",
+    "note": "richiamo del passato"
+  },
+  {
+    "dimensione": "invidia",
+    "valore_suggerito": "-",
+    "note": "paragone doloroso"
+  },
+  {
+    "dimensione": "gratitudine",
+    "valore_suggerito": "+",
+    "note": "riconoscenza per qualcosa ricevuto"
+  },
+  {
+    "dimensione": "spensieratezza",
+    "valore_suggerito": "+",
+    "note": "leggerezza emotiva"
+  },
+  {
+    "dimensione": "curiosità",
+    "valore_suggerito": "+",
+    "note": "voglia di scoprire"
+  },
+  {
+    "dimensione": "noia",
+    "valore_suggerito": "-",
+    "note": "assenza di stimoli"
+  },
+  {
+    "dimensione": "rabbia repressa",
+    "valore_suggerito": "-",
+    "note": "frustrazione non espressa"
+  },
+  {
+    "dimensione": "entusiasmo",
+    "valore_suggerito": "+",
+    "note": "energia emotiva in salita"
+  },
+  {
+    "dimensione": "senso della vita",
+    "valore_suggerito": "+",
+    "note": "ricerca di significato"
+  },
+  {
+    "dimensione": "lasciare traccia",
+    "valore_suggerito": "+",
+    "note": "voler essere ricordati"
+  },
+  {
+    "dimensione": "fuga",
+    "valore_suggerito": "-",
+    "note": "desiderio di evasione"
+  },
+  {
+    "dimensione": "libertà",
+    "valore_suggerito": "+",
+    "note": "autonomia, indipendenza"
+  },
+  {
+    "dimensione": "ordine",
+    "valore_suggerito": "=",
+    "note": "desiderio di struttura"
+  },
+  {
+    "dimensione": "caos",
+    "valore_suggerito": "-",
+    "note": "disordine emozionale"
+  },
+  {
+    "dimensione": "confusione",
+    "valore_suggerito": "=",
+    "note": "assenza di direzione chiara"
+  },
+  {
+    "dimensione": "pace interiore",
+    "valore_suggerito": "+",
+    "note": "equilibrio emotivo"
+  },
+  {
+    "dimensione": "competizione",
+    "valore_suggerito": "=",
+    "note": "desiderio di superare altri"
+  },
+  {
+    "dimensione": "esibizionismo",
+    "valore_suggerito": "-",
+    "note": "bisogno eccessivo di apparire"
+  },
+  {
+    "dimensione": "minimalismo",
+    "valore_suggerito": "=",
+    "note": "riduzione al vero essenziale"
+  },
+  {
+    "dimensione": "estetica",
+    "valore_suggerito": "=",
+    "note": "bellezza percepita"
+  },
+  {
+    "dimensione": "contatto umano",
+    "valore_suggerito": "+",
+    "note": "prossimità fisica e affettiva"
+  },
+  {
+    "dimensione": "distacco",
+    "valore_suggerito": "-",
+    "note": "chiusura, freddezza"
+  },
+  {
+    "dimensione": "intimità",
+    "valore_suggerito": "+",
+    "note": "vicinanza emotiva"
+  },
+  {
+    "dimensione": "paura del rifiuto",
+    "valore_suggerito": "-",
+    "note": "insicurezza legata al giudizio"
+  },
+  {
+    "dimensione": "colpa",
+    "valore_suggerito": "-",
+    "note": "emozione morale negativa"
+  },
+  {
+    "dimensione": "autodistruzione",
+    "valore_suggerito": "-",
+    "note": "sfiducia profonda"
+  },
+  {
+    "dimensione": "sopravvivenza",
+    "valore_suggerito": "+",
+    "note": "resilienza istintiva"
+  },
+  {
+    "dimensione": "creatività",
+    "valore_suggerito": "+",
+    "note": "generazione di novità"
+  },
+  {
+    "dimensione": "vocazione",
+    "valore_suggerito": "+",
+    "note": "sentirsi chiamati"
+  },
+  {
+    "dimensione": "identità",
+    "valore_suggerito": "=",
+    "note": "chi sono io"
+  },
+  {
+    "dimensione": "vergogna",
+    "valore_suggerito": "-",
+    "note": "esposizione e giudizio"
+  },
+  {
+    "dimensione": "euforia",
+    "valore_suggerito": "+",
+    "note": "picco emotivo positivo"
+  },
+  {
+    "dimensione": "esaurimento",
+    "valore_suggerito": "-",
+    "note": "saturazione emotiva"
+  },
+  {
+    "dimensione": "ribellione",
+    "valore_suggerito": "+",
+    "note": "sfida alle regole"
+  },
+  {
+    "dimensione": "adattamento",
+    "valore_suggerito": "=",
+    "note": "resilienza strategica"
+  },
+  {
+    "dimensione": "fiducia",
+    "valore_suggerito": "+",
+    "note": "credere in sé o negli altri"
+  },
+  {
+    "dimensione": "tradimento",
+    "valore_suggerito": "-",
+    "note": "rottura di fiducia"
+  },
+  {
+    "dimensione": "riconciliazione",
+    "valore_suggerito": "+",
+    "note": "riavvicinamento emotivo"
+  },
+  {
+    "dimensione": "autonomia",
+    "valore_suggerito": "+",
+    "note": "libertà di scelta personale"
+  },
+  {
+    "dimensione": "dipendenza emotiva",
+    "valore_suggerito": "-",
+    "note": "bisogno eccessivo dell’altro"
+  },
+  {
+    "dimensione": "sfida",
+    "valore_suggerito": "+",
+    "note": "superamento di ostacoli"
+  },
+  {
+    "dimensione": "pigrizia",
+    "valore_suggerito": "-",
+    "note": "mancanza di slancio"
+  },
+  {
+    "dimensione": "protezione",
+    "valore_suggerito": "+",
+    "note": "bisogno di sicurezza affettiva"
+  },
+  {
+    "dimensione": "abbandono",
+    "valore_suggerito": "-",
+    "note": "assenza e mancanza emotiva"
+  },
+  {
+    "dimensione": "silenzio",
+    "valore_suggerito": "=",
+    "note": "assenza che può essere pace o vuoto"
+  },
+  {
+    "dimensione": "memoria",
+    "valore_suggerito": "=",
+    "note": "presenza del passato"
+  },
+  {
+    "dimensione": "rigenerazione",
+    "valore_suggerito": "+",
+    "note": "rinascita, pulizia interiore"
+  },
+  {
+    "dimensione": "impotenza",
+    "valore_suggerito": "-",
+    "note": "blocco, incapacità"
+  },
+  {
+    "dimensione": "potere personale",
+    "valore_suggerito": "+",
+    "note": "capacità d’azione autonoma"
+  },
+  {
+    "dimensione": "ansia da prestazione",
+    "valore_suggerito": "-",
+    "note": "pressione eccessiva"
+  },
+  {
+    "dimensione": "inutilità",
+    "valore_suggerito": "-",
+    "note": "percezione di non valore"
+  },
+  {
+    "dimensione": "scoperta",
+    "valore_suggerito": "+",
+    "note": "incontro col nuovo"
+  },
+  {
+    "dimensione": "ritmo interiore",
+    "valore_suggerito": "=",
+    "note": "sintonia con sé stessi"
+  },
+  {
+    "dimensione": "presenza",
+    "valore_suggerito": "+",
+    "note": "consapevolezza del qui e ora"
+  },
+  {
+    "dimensione": "assenza",
+    "valore_suggerito": "-",
+    "note": "disconnessione"
+  },
+  {
+    "dimensione": "rottura degli schemi",
+    "valore_suggerito": "+",
+    "note": "creatività rivoluzionaria"
+  },
+  {
+    "dimensione": "accettazione",
+    "valore_suggerito": "+",
+    "note": "accogliere ciò che è"
+  },
+  {
+    "dimensione": "empowerment",
+    "valore_suggerito": "+",
+    "note": "riscatto e potere personale"
+  },
+  {
+    "dimensione": "paura di fallire",
+    "valore_suggerito": "-",
+    "note": "insicurezza operativa"
+  },
+  {
+    "dimensione": "illusione",
+    "valore_suggerito": "=",
+    "note": "proiezione non reale"
+  },
+  {
+    "dimensione": "disillusione",
+    "valore_suggerito": "-",
+    "note": "caduta delle aspettative"
+  },
+  {
+    "dimensione": "meraviglia",
+    "valore_suggerito": "+",
+    "note": "stupore positivo"
+  },
+  {
+    "dimensione": "vergogna sociale",
+    "valore_suggerito": "-",
+    "note": "imbarazzo da confronto"
+  },
+  {
+    "dimensione": "gelosia affettiva",
+    "valore_suggerito": "-",
+    "note": "possesso emotivo"
+  },
+  {
+    "dimensione": "serenità",
+    "valore_suggerito": "+",
+    "note": "pace interiore"
+  },
+  {
+    "dimensione": "obiettivo",
+    "valore_suggerito": "=",
+    "note": "direzione, meta"
+  },
+  {
+    "dimensione": "sogno",
+    "valore_suggerito": "+",
+    "note": "proiezione ideale"
+  },
+  {
+    "dimensione": "connessione spirituale",
+    "valore_suggerito": "+",
+    "note": "unione con qualcosa di più grande"
+  },
+  {
+    "dimensione": "dualità",
+    "valore_suggerito": "=",
+    "note": "ambivalenza interiore"
+  },
+  {
+    "dimensione": "riflessione",
+    "valore_suggerito": "=",
+    "note": "pensiero profondo"
+  },
+  {
+    "dimensione": "compensazione",
+    "valore_suggerito": "=",
+    "note": "riempire un vuoto"
+  },
+  {
+    "dimensione": "attesa",
+    "valore_suggerito": "=",
+    "note": "tempo sospeso"
+  },
+  {
+    "dimensione": "blocco creativo",
+    "valore_suggerito": "-",
+    "note": "assenza d’ispirazione"
+  },
+  {
+    "dimensione": "fame d’amore",
+    "valore_suggerito": "-",
+    "note": "vuoto affettivo"
+  },
+  {
+    "dimensione": "rivincita",
+    "valore_suggerito": "+",
+    "note": "riscatto emozionale"
+  },
+  {
+    "dimensione": "fede",
+    "valore_suggerito": "+",
+    "note": "credere oltre la logica"
+  },
+  {
+    "dimensione": "vulnerabilità",
+    "valore_suggerito": "=",
+    "note": "forza nell’essere esposti"
+  }
+]
