@@ -30,7 +30,7 @@ Fornire uno standard per etichettare i contenuti in base alle emozioni dominanti
 
 Creato e ideato da [Lorenzo Coppola](https://www.ottimizzazionemotoridiricerca.it/)
 
-📩 info@ottimizzazionemotoridiricerca.it
+📩 Contatti
 
 ## 📜 Licenza
 
